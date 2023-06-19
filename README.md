@@ -6,7 +6,7 @@ Breed Fetcher is a Node.js application that fetches and displays information abo
 
 1. Clone the repository: `git@github.com:Aasemaaneh/json_the_cat.git`
 2. Navigate to the project directory: `cd breed-fetcher`
-3. Install dependencies: `npm install`
+3. Install dependencies: `npm install request`
 
 ## Usage
 
